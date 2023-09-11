@@ -1,5 +1,5 @@
 wheel
-aiogram=3.0.1
+aiogram
 python-dotenv
 rich
 aiohttp
